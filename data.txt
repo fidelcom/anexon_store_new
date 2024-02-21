@@ -1,0 +1,27 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: anexon.org
+| Ip: 167.99.224.238 (n)
+| HasCgi: y
+| UserName: cream
+| PassWord: Anexon@2022
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: unlimited
+| NameServer1: ns1.cprapid.com
+| NameServer2: ns2.cprapid.com
+| NameServer3: 
+| NameServer4: 
+| Package: default
+| Feature List: default
+| Account Enhancements: None
+| Language: en
+https://167.99.224.238:2083
++===================================+
+
+
+//for email sending
+Email: contact@anexon.org
+Email: info@anexon.org
+password: Anexon2022
